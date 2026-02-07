@@ -338,4 +338,5 @@ Software Engineering Student
 
 This project is open-source and available under the MIT License.
 
-![Demo Screenshot](aibnb.png)
+![Demo Screenshot](airbnb.png)
+
